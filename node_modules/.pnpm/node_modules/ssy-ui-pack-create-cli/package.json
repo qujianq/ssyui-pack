@@ -1,0 +1,14 @@
+{
+    "name": "ssy-ui-pack-create-cli",
+    "version": "1.0.0",
+    "description": "A CLI tool for creating ssui-ui-pack projects",
+    "main": "index.js",
+    "bin": {
+      "create-cli": "./bin/index.js"
+    },
+    "scripts": {
+      "build": "echo 'Building create-cli...'",
+      "test": "echo 'Running tests for create-cli...'"
+    }
+  }
+  

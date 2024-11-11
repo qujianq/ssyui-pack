@@ -1,0 +1,15 @@
+{
+  "name": "ssy-ui-pack-docs",
+  "version": "1.0.0",
+  "description": "Documentation for ssy-ui-pack",
+  "scripts": {
+    "build": "echo 'Building docs...'",
+    "dev": "vitepress dev"
+  },
+  "dependencies": {
+    "vitepress": "^1.0.0"  
+  },
+  "devDependencies": {
+
+  }
+}
